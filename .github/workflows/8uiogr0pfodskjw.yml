@@ -1,4 +1,4 @@
-name: Cope&Matthew
+name: WilliamNSGAY303
 
 on: workflow_dispatch
 
@@ -41,4 +41,3 @@ jobs:
       run: cmd /c start.bat
     - name: Made Successfully! You Can Close Tab Now
       run: cmd /c loop.bat
-© 2021 GitHub, Inc.
